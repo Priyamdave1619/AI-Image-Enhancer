@@ -1,12 +1,3 @@
----
-title: Image Enhancer
-emoji: 📉
-colorFrom: pink
-colorTo: purple
-sdk: docker
-pinned: false
----
-
 # AI Image Enhancer / Upscaler Backend
 
 A production-style FastAPI backend for image enhancement and upscaling with support for:
