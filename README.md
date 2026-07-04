@@ -95,6 +95,14 @@ curl -X POST "http://127.0.0.1:8000/api/v1/enhance"   -F "file=@input.jpg"   -F 
 ### Download output
 `GET /api/v1/download/{filename}`
 
+## Result:
+## Input image :
+<img width="392" height="634" alt="Monalisa" src="https://github.com/user-attachments/assets/922fabd6-9535-4d7e-ab19-7fe9093fd7d3" />
+
+##OUTPUT image:
+<img width="1024" height="1024" alt="output-image" src="https://github.com/user-attachments/assets/ba0600b3-03ba-457d-890b-ad4eeee355fc" />
+
+
 ## Real-ESRGAN Weights
 
 To use Real-ESRGAN properly, place model weights in:
